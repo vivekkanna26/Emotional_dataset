@@ -1,5 +1,5 @@
-# Emotional_dataset
-Emotional dataset
+# Emotion_Finder
+based on Emotional dataset
 
 
 This model bases on your facial expression and tells you if you are happy,sad,angry,fear,disgust or neutral.

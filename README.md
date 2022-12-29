@@ -12,7 +12,7 @@ Opens webcam for analysing and delivering the results.
 
 ![3-Figure2-1](https://user-images.githubusercontent.com/75105149/119313363-172c6f80-bc91-11eb-93d2-aad0fa422ed2.png)
 
-<img width="791" alt="Screenshot 2022-02-15 at 11 58 41" src="https://user-images.githubusercontent.com/75105149/154057957-2ec2fc47-855d-4270-a603-08828454367e.png">
+src="https://user-images.githubusercontent.com/75105149/154057957-2ec2fc47-855d-4270-a603-08828454367e.png">
 
 ![ExpNet_teaser_v2](https://user-images.githubusercontent.com/75105149/119313402-201d4100-bc91-11eb-8c2c-596a25da18fe.jpg)
 
